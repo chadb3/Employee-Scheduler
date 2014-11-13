@@ -1,0 +1,2 @@
+c:\users\chadb3\documents\visual studio 2013\Projects\EmployeeSchdulerProject\EmployeeSchdulerProject\bin\Debug\EmployeeSchdulerProject.exe.config
+C:\Users\chadb3\Desktop\EmployeeSchdulerProject\EmployeeSchdulerProject\bin\Debug\EmployeeSchdulerProject.exe.config
